@@ -1,0 +1,10 @@
+.header-row{
+    width: 100%;
+}
+
+mat-toolbar {
+    
+    position: fixed;
+    z-index: 100;
+    
+}
